@@ -1,3 +1,5 @@
+Hosted at https://docs.google.com/spreadsheets/d/1UWeiE45m07DOPI3U6edua7siG5AswZci-zoXDOoc8rc/edit?usp=sharing
+
 # 📦 Supply Chain Analytics Workbook
 
 An advanced Excel / Google Sheets portfolio project demonstrating analyst-level spreadsheet skills across lookup functions, aggregation, scenario modeling, data validation, and conditional formatting — built on a realistic ocean import operations dataset.
