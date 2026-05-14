@@ -113,25 +113,6 @@ Automated risk scoring with formula-driven alert generation and enforced data va
 
 ---
 
-## Google Sheets Compatibility
-
-All formulas are tested for Google Sheets compatibility:
-
-| Feature | Status |
-|---|---|
-| `VLOOKUP` / `INDEX` / `MATCH` | ✅ Full support |
-| `XLOOKUP` | ✅ Supported in Google Sheets |
-| `SUMIFS` / `AVERAGEIFS` / `COUNTIFS` | ✅ Full support |
-| `SUMPRODUCT` (array logic) | ✅ Full support |
-| `IFS` | ✅ Supported (nested IF used for max compatibility) |
-| Structured Table references | ⚠️ Converts to standard ranges in Sheets |
-| Conditional Formatting rules | ✅ Recreatable in Sheets (manual step) |
-| Data Validation dropdowns | ✅ Imports correctly |
-
-**To use in Google Sheets:** Upload `.xlsx` to Google Drive → right-click → Open with Google Sheets. All core formulas recalculate automatically.
-
----
-
 ## Domain Context
 
 This workbook is built around **ocean import operations** — a data-rich domain where analysts regularly track:
