@@ -1,12 +1,6 @@
-[README_excel.md](https://github.com/user-attachments/files/27779410/README_excel.md)
 # 📦 Supply Chain Analytics Workbook
 
 An advanced Excel / Google Sheets portfolio project demonstrating analyst-level spreadsheet skills across lookup functions, aggregation, scenario modeling, data validation, and conditional formatting — built on a realistic ocean import operations dataset.
-
-**[⬇️ Download the Workbook (.xlsx)](./supply_chain_analytics.xlsx)**  
-**[🔗 View Interactive Preview](https://yourusername.github.io/your-repo-name/supply_chain_preview.html)**
-
-> **Note:** GitHub cannot render `.xlsx` files in the browser. Download the file to open in Excel, or upload it to [Google Sheets](https://sheets.google.com) for immediate use — all formulas are Google Sheets compatible.
 
 ---
 
